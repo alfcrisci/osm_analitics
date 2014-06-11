@@ -1,8 +1,8 @@
 State of Map  Europe 2014 
 ================
 
-This repository containd data and  code to reproduce  graph and image in "Data Consistency in OpenStreetMap".
-OSM history file  are required.
+This repository contains data and code graph and image reproducibility in presentation "Data Consistency in OpenStreetMap".
+OSM history file  of following italian cities are required.
 
 ###Firenze 
 ###Matera
@@ -19,7 +19,7 @@ https://s3.amazonaws.com/metro-extracts.mapzen.com/trento.osm.pbf
 ## Tools required
 =============================================
 
-R STAT environemnt
+R STAT environemnt Use set_geo.r to install packages required.
 
 Osmconvert http://wiki.openstreetmap.org/wiki/Osmconvert
 
@@ -27,7 +27,7 @@ Osmfilter  http://wiki.openstreetmap.org/wiki/Osmfilter
 
 Spatial-tools binaries Christian Kaiser http://github.com/christiankaiser/spatial-tools
 
-Modified R code authored by  @prabhasp http://prabhasp.github.io/OSMTimeLapseR
+Modified R code authored by  @prabhasp http://prabhasp.github.io/OSMTimeLapseR -TimeLapse.r
  
 
 ## Data Consistency in OpenStreetMap
