@@ -2,7 +2,7 @@ State of Map  Europe 2014
 ================
 
 This repository have the data and R code for reproducible examples presented 
-Required  OSM history file 
+OSM history file  are required.
 
 ###Firenze 
 ###Matera
@@ -16,19 +16,14 @@ https://s3.amazonaws.com/metro-extracts.mapzen.com/florence.osm.pbf
 
 https://s3.amazonaws.com/metro-extracts.mapzen.com/trento.osm.pbf
 
-or using Osmconvert:
-
-osmconvert italy.osh.pbf -b=16.55763969,40.63519687,16.64553031,40.70184913 -o=Matera_12_osh.
-
-osmconvert italy.osh.pbf -b=11.08181479,46.03591941,11.16970541,46.09692619 -o=Trento_12_osh.osm
-
-osmconvert italy.osh.pbf -b=11.21163039,43.73812104,11.29952101,43.80162136 -o=Firenze_12_osh.osm
-
+## Tools required
+=============================================
 
 
 Osmconvert http://wiki.openstreetmap.org/wiki/Osmconvert
 
 Osmfilter  http://wiki.openstreetmap.org/wiki/Osmfilter
+
 
 
 ## Data Consistency in OpenStreetMap
