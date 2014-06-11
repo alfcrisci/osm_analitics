@@ -1,7 +1,7 @@
 State of Map  Europe 2014 
 ================
 
-This repository have the data and R code for reproducible examples presented 
+This repository containd data and  code to reproduce  graph and image in "Data Consistency in OpenStreetMap".
 OSM history file  are required.
 
 ###Firenze 
@@ -18,6 +18,7 @@ https://s3.amazonaws.com/metro-extracts.mapzen.com/trento.osm.pbf
 
 ## Tools required
 =============================================
+
 
 
 Osmconvert http://wiki.openstreetmap.org/wiki/Osmconvert
