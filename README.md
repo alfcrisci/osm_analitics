@@ -25,14 +25,14 @@ or using:
 Osmconvert http://wiki.openstreetmap.org/wiki/Osmconvert
 
 Osmfilter  http://wiki.openstreetmap.org/wiki/Osmfilter
-=======
+
 
 Work title: Data Consistency in OpenStreetMap
+=============================================
+
+## Title :Monitoring Consistency using Spatial Features and Tag Semantics
 
 
-Sub Title :Monitoring Consistency using Spatial Features and Tag Semantics
-
-Abstract
 
 Monitoring consistency and reliability of maps is an important task when Volunteered Geographic Information (VGI) is involved and OpenStreetMap provides a good testing ground to develop operative methodologies. The aim of this work is to present some procedures to be instanced as a web application. Two questions about data consistency are considered: for any given region (I) Is the level of spatial features density at a given scale enough for a suitable geographical description? (II) Is the semantics of the features (described by keys and tags) consistent and comprehensive?
 
