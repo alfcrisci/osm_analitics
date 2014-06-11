@@ -19,11 +19,13 @@ https://s3.amazonaws.com/metro-extracts.mapzen.com/trento.osm.pbf
 ## Tools required
 =============================================
 
-
+R STAT environemnt
 
 Osmconvert http://wiki.openstreetmap.org/wiki/Osmconvert
 
 Osmfilter  http://wiki.openstreetmap.org/wiki/Osmfilter
+
+Spatial-tools binaries Christian Kaiser http://github.com/christiankaiser/spatial-tools
 
 
 
