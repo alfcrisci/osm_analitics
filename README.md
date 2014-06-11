@@ -19,7 +19,7 @@ https://s3.amazonaws.com/metro-extracts.mapzen.com/trento.osm.pbf
 ## Tools required
 =============================================
 
-R STAT environemnt Use set_geo.r to install packages required.
+R STAT environemnt Use setup_geo.r to install packages required.
 
 Osmconvert http://wiki.openstreetmap.org/wiki/Osmconvert
 
