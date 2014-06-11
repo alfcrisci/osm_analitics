@@ -12,7 +12,7 @@ available also at https://mapzen.com/metro-extracts
 
 https://s3.amazonaws.com/metro-extracts.mapzen.com/matera.osm.pbf
 
-htps://s3.amazonaws.com/metro-extracts.mapzen.com/florence.osm.pbf
+https://s3.amazonaws.com/metro-extracts.mapzen.com/florence.osm.pbf
 
 https://s3.amazonaws.com/metro-extracts.mapzen.com/trento.osm.pbf
 
