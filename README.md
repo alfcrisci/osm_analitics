@@ -27,7 +27,8 @@ Osmfilter  http://wiki.openstreetmap.org/wiki/Osmfilter
 
 Spatial-tools binaries Christian Kaiser http://github.com/christiankaiser/spatial-tools
 
-
+Modified R code authored by  @prabhasp http://prabhasp.github.io/OSMTimeLapseR
+ 
 
 ## Data Consistency in OpenStreetMap
 =============================================
